@@ -1,3 +1,16 @@
+# MOVO App
+
+**Deskripsi Proyek**
+MOVO App adalah aplikasi gym yang dirancang untuk membantu pengguna mencapai tujuan kebugaran mereka. Aplikasi ini dikembangkan menggunakan Flutter dan Firebase Cloud Firestore sebagai backend untuk menyimpan data pengguna dan menyinkronkannya secara real-time.
+
+**Fitur Utama**
+- Tracking kegiatan fitness
+- Rekomendasi rutin latihan
+- Analisis kemajuan
+- Manajemen diet dan nutrisi
+- Komunitas dan dukungan sosial
+
+
 # MOVO App Preview
 
 ## App Screenshots
